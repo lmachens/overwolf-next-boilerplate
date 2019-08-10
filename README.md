@@ -15,7 +15,7 @@ Minimal Next.js boilerplate for Overwolf apps
 1. Build app
 
    ```
-   npm run export`
+   npm run export
    ```
 
 1. Click on Overwolf Settings (either the wrench icon on the dock or the Settings button on the tray icon menu).
